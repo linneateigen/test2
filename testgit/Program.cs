@@ -12,6 +12,9 @@ namespace testgit
         {
             Console.WriteLine("Nytt test");
             Console.WriteLine("Nytt test");
+
+            Console.WriteLine("Jag testar igen");
+            Console.WriteLine("Jag testar igen");
         }
     }
 }
