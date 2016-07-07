@@ -11,6 +11,7 @@ namespace testgit
         static void Main(string[] args)
         {
             Console.WriteLine("Nytt test");
+            Console.WriteLine("Nytt test");
         }
     }
 }
