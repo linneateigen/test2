@@ -16,6 +16,8 @@ namespace testgit
             Console.WriteLine("Jag testar igen");
             Console.WriteLine("Jag testar igen");
             Console.WriteLine("eyeyey");
+
+            Console.WriteLine("Jimmy");
         }
     }
 }
