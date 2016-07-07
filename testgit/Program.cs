@@ -18,6 +18,8 @@ namespace testgit
             Console.WriteLine("eyeyey");
 
             Console.WriteLine("Jimmy");
+
+            //Vilket bra program vi har
         }
     }
 }
